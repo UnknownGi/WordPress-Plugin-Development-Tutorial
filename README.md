@@ -4,13 +4,7 @@
 
 This WordPress Plugin allows a WordPress Website to display Particular Products with their Description (price, weight, color, etc). The Description is added by the website Administrator and can change them in time.
 
-The Products are Categorized as:
-- In Stock
-- Backordered
-- Out of Stock
-- Discontinued 
-
-These options can be changed accordingly in the source code.
+Product Categories can be Edited appropriately in Source Code.
 
 ## Technology Used
 
@@ -52,6 +46,10 @@ for **WAMP** Users
 - **Activate** the **Product Catalog** Plugin
 
 The Plugin is Activated and can be used on your WordPress Website.
+
+## Working w/ Jing Video
+
+Jing Reference: http://screencast.com/t/6iQGxe0e3
 
 ## Working w/ Screenshots
 
