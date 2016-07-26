@@ -211,12 +211,12 @@
         global $post;
         extract( shortcode_atts( array( "show" => '' ), $atts ) );
         
-        $hween_options_arr = get_option( 'halloween_options' );
+        $hween_options_array = get_option( 'halloween_options' );
         
         if ( $show == 'sku' ) {
             $hs_show = get_post_meta( $post->ID, '_halloween_product_sku', true );
         } elseif ( $show == 'price' ) {
-            $hs_show = $hween_options_arr['currency_sign'].
+            $hs_show = $hween_options_array['currency_sign'].
             get_post_meta( $post->ID, '_halloween_product_price', true );
         } elseif ( $show == 'weight' ) {
             $hs_show = get_post_meta( $post->ID, '_halloween_product_weight', true );
