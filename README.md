@@ -8,37 +8,26 @@ Product Categories can be Edited appropriately in Source Code.
 
 ## Technology Used
 
-Languages: 
-- HTML
-- PHP 
-- MySQL
-
-Text Editor:
-- Brackets
-
-Hosting:
-- XAMPP or WAMP 
+- Language: **HTML**, **PHP** & **MySQL**
+- Text Editor: **Brackets**
+- Web Server & Database Hosting: **XAMPP** or **WAMP** 
 
 This Plugin is locally hosted and tested properly.
 
 ## How To Activate Plugin
 
-for **XAMPP** Users
 - **Download** the Plugin
 - **Extract** to any Folder
+
+For **XAMPP** Users
 - **Create** a Folder called *halloween-plugin* at **./XAMPP/htdocs/WordPress-Website/wp-content/plugins/**
 - **Copy** both *PHP files* to **./XAMPP/htdocs/WordPress-Website/wp-content/plugins/halloween-plugin**
-- **Open** any Browser
-- **Open** the Website **http://localhost/WordPress-Website/wp-admin**
-- **Enter** Administrator Credentials and Login
-- Go to **Plugins** Tab
-- **Activate** the **Product Catalog** Plugin
 
-for **WAMP** Users
-- **Download** the Plugin
-- **Extract** to any Folder
+OR For **WAMP** Users
 - **Create** a Folder called *halloween-plugin* at **./WAMP/www/WordPress-Website/wp-content/plugins/**
 - **Copy** both *PHP files* to **./WAMP/www/WordPress-Website/wp-content/plugins/halloween-plugin**
+
+Then
 - **Open** any Browser
 - **Open** the Website **http://localhost/WordPress-Website/wp-admin**
 - **Enter** Administrator Credentials and Login
