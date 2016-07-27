@@ -101,3 +101,9 @@ Digital Reference to Professional WordPress 2nd Edition: http://www.stilson.net/
 
 In case of any fault or problems caused by this Plugin, I am not responsible for any damage caused. 
 **_USE AT YOUR OWN RISK_**.
+
+## Contact
+
+If you have Questions, feel free to contact me:
+- Facebook: http://facebook.com/fuNkyBRO1
+- Email: k132089@nu.edu.pk
