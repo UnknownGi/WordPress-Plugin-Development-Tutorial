@@ -76,9 +76,6 @@ The Code uses **actions** and **filters** to accomplish its task using appropria
 
 More References can be Looked At Codex: https://codex.wordpress.org/
 
-## Note 
-
-The **WP_Widget** Class uses a **_deprecated_** constructor and can only be used if your **Debug** is set to **False** in **_wp-config.php_** file.
 
 ## Credits
 
