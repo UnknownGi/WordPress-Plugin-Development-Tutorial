@@ -238,14 +238,14 @@
     } // #EndOfHalloweenStoreRegisterWidget!
 
     class hs_widget extends WP_Widget {
-        /* Deprecated Constructor since version 4.3.0 - Make sure Debug is disabled in wp-config.php file */
-        function hs_widget() {
+        /* Deprecated Constructor Removed */
+        function __construct() {
             $widget_ops = array(
                 'classname' => 'hs-widget-class',
                 'description' => 'Display Halloween Products'
             );
             
-            $this->WP_Widget('hs_widget', 'Product Widget', $widget_ops);
+            parent::__construct('hs_widget', 'Product Widget', $widget_ops);
         } // #EndOfConstructor!
         
         
